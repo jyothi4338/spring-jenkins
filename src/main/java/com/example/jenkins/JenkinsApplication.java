@@ -10,7 +10,7 @@ public class JenkinsApplication {
 		SpringApplication.run(JenkinsApplication.class, args);
 	}
 	public boolean test() {
-		System.out.println("check the result");
+		System.out.println("check the result");;u
 		return true;
 	}
 }
